@@ -1,0 +1,8 @@
+{
+  "name": "openquiz",
+  "version": "1.0.0",
+  "description": "A real-time anonymous quiz platform built for events, meetups, and education. It encourages open participation, removes barriers of self-expression, and makes interaction more authentic and engaging",
+  "author": "BitDevs Maputo",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0"
+}
